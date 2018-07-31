@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\bin\Debug\netcoreapp2.1\Dynamic.Spider.Test.deps.json
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\bin\Debug\netcoreapp2.1\Dynamic.Spider.Test.runtimeconfig.json
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\bin\Debug\netcoreapp2.1\Dynamic.Spider.Test.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\bin\Debug\netcoreapp2.1\Dynamic.Spider.Test.dll
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\obj\Debug\netcoreapp2.1\Dynamic.Spider.Test.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\obj\Debug\netcoreapp2.1\Dynamic.Spider.Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\obj\Debug\netcoreapp2.1\Dynamic.Spider.Test.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\obj\Debug\netcoreapp2.1\Dynamic.Spider.Test.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\bin\Debug\netcoreapp2.1\Dynamic.Spider.Test.pdb
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\obj\Debug\netcoreapp2.1\Dynamic.Spider.Test.dll
+C:\Users\Administrator\source\repos\Dynamic.Spider\Dynamic.Spider.Test\obj\Debug\netcoreapp2.1\Dynamic.Spider.Test.pdb
